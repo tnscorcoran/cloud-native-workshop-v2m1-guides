@@ -21,6 +21,3 @@ modules:
   activate:
   - workshop-environment
   - getting-started-rhamt
-  - migrate-to-jboss-eap
-  - break-monolith-apart1
-  - break-monolith-apart2
