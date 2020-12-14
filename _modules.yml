@@ -6,9 +6,3 @@ modules:
     name: Your Workshop Environment
   getting-started-rhamt:
     name: Getting Started with Migration Toolkit for Applications
-  migrate-to-jboss-eap:
-    name: Migrate to JBoss EAP
-  break-monolith-apart1:
-    name: Break Monolith Apart - I
-  break-monolith-apart2:
-    name: Break Monolith Apart - II
