@@ -4,5 +4,5 @@ config:
 modules:
   workshop-environment:
     name: Your Workshop Environment
-  getting-started-rhamt:
-    name: Getting Started with Migration Toolkit for Applications
+  data-engineer:
+    name: Data Engineer user Jupyter Notebook to combine and clean data

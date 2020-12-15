@@ -20,4 +20,4 @@ vars:
 modules:
   activate:
   - workshop-environment
-  - getting-started-rhamt
+  - data-engineer
